@@ -1,6 +1,6 @@
 import java.util.*;
 
-// not 171 now, changed to other questions
+// not 171 now, changed to another question
 class Onesevenone{
    public static void main(String[] args){
       Stack<Integer> stack = new Stack<>();
